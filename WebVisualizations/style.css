@@ -1,0 +1,86 @@
+.jumbotron h1 {
+    color: aliceblue;
+}
+
+.jumbotron h3 {
+    color:aliceblue;
+}
+
+.jumbotron {
+    border-radius:0px;
+}
+
+.navbar-brand {
+    background: darkred;
+    border-radius: 20px;
+    padding: 10px;    
+}
+
+.summary_box {
+    text-decoration: bold;
+    text-align:center;
+}
+
+.plot_header {
+    text-align: center;
+}
+
+.plot_paragraph {
+    text-align: center;
+}
+
+
+thead {
+    text-align: center;
+    
+}
+
+th {
+    text-align: center;
+    padding: 5px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 340px;
+}
+
+.text_comp{
+    text-align: center;
+    font-size: 12px;
+}
+
+.img1 {
+    width:100%
+}
+
+.img2 {
+    width:100%
+}
+
+.img3 {
+    width:100%
+}
+
+.img4 {
+    width:100%
+}
+
+
+.border_yo {
+     border-style: solid;
+     border-width: 1px;
+     padding:10px; 
+     border-color:black;
+}
+
+@media (max-width:768px) {.navbar-brand {
+    background: teal;
+    border-radius: 20px;
+    padding: 10px;
+}
+}
+
