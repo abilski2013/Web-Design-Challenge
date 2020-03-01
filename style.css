@@ -35,6 +35,17 @@ thead {
     
 }
 
+.thumbnail_label {
+    font-size: 14px;
+    text-align: center;
+}
+
+.tnimg {
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
 th {
     text-align: center;
     padding: 5px;
@@ -84,3 +95,9 @@ th {
 }
 }
 
+.thumbnail img {
+    background: teal;
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: auto;
+}
